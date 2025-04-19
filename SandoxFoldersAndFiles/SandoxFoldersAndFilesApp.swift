@@ -11,7 +11,7 @@ import SwiftUI
 struct SandoxFoldersAndFilesApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PeopleView()
         }
     }
 }
